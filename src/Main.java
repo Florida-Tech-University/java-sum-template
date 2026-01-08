@@ -7,7 +7,7 @@ public class Main {
         // TODO: Read two integers
       
 
-        // TODO: Print their sum
+        // TODO: Print their sum  using println
       
         scanner.close();
     }
